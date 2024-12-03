@@ -36,6 +36,11 @@ ElasticNet: поиск оптимальных гиперпараметров с 
 
 ## Примеры работы сервиса:
 ![Example 1](FastAPI_examples/1.png)
+![Example 21](FastAPI_examples/2.png)
+![Example 3](FastAPI_examples/3.png)
+![Example 4](FastAPI_examples/4.png)
+![Example 5](FastAPI_examples/5.png)
+![Example 6](FastAPI_examples/6.png)
 
 ## Выводы:
 
