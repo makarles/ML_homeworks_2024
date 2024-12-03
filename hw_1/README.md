@@ -35,7 +35,7 @@ ElasticNet: поиск оптимальных гиперпараметров с 
 Предусмотрено описание классов для запросов и обработка входных данных через Pydantic.
 
 ## Примеры работы сервиса:
-![1](hw_1/FastAPI_examples/1.png)
+![]https://github.com/makarles/ML_homeworks_2024/blob/main/hw_1/FastAPI_examples/1.png))
 
 ## Выводы:
 
